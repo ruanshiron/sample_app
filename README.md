@@ -1,3 +1,5 @@
+## Nguyễn Thế Vinh - 200167446 - HEDSPI - HUST
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
